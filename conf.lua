@@ -1,6 +1,6 @@
 _G.window_settings = {
-	width = 1200,
-	height = 700,
+	width = 800,
+	height = 600,
 	title = "stroids"
 }
 
